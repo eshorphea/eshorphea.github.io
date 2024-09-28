@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eshorphea.github.io/sitemap.html.gz
+Sitemap: https://eshorphea.github.io/app/sitemap.html.gz
+Sitemap: https://eshorphea.github.io/assets/sitemap.html.gz
+Sitemap: https://eshorphea.github.io/css/sitemap.html.gz
+Sitemap: https://eshorphea.github.io/data/sitemap.html.gz
+Sitemap: https://eshorphea.github.io/includes/sitemap.html.gz
+Sitemap: https://eshorphea.github.io/item/sitemap.html.gz
+Sitemap: https://eshorphea.github.io/src/sitemap.html.gz
